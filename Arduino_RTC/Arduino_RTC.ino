@@ -6,12 +6,18 @@ Version         : v0.2
 */
 
 /* Updates      : v0.1
+<<<<<<< HEAD
  * Date 28.12.2018        
  *              : UART basic communication added 
  *              : v0.2
  * Date 28.12.2018
  *              : RTC library is added and working fine with DS1307 for display clock
  *              : But NOT working for setting clock 
+=======
+ * Date 28.12.208        
+ *              : UART basic communication added 
+ *              : 
+>>>>>>> 4669d2ce076484f4d3d8a3308efaa29a6a5aa3c3
  */
 /* libraries included */
 #include <Wire.h>
